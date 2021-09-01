@@ -1,1 +1,1 @@
-# h-m-clone
+Okay so this is pretty mediocre take on creating a cloned version of https://www2.hm.com/en_in/index.html. I need to work on giving more reasonable naming for for classes,IDs etc aswell as commenting.This is my Second project i ever made so lots to improve 
